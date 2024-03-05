@@ -1,0 +1,1 @@
+Should just need to have python and pip install pyserial. Then make sure you've already setup and rebooted the board while connected to the terminal, log in, and then close putty before booting it up.
